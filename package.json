@@ -33,7 +33,8 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [
-    "ios"
+    "ios",
+    "android"
   ],
   "scripts": {
     "start": "webpack-dev-server --hot --inline --colors --content-base www/"
