@@ -4,6 +4,9 @@ Simple Ionic and webpack example
 
 To start simply run
 
-npm install
+1. npm install
 
-npm start
+2. npm start
+
+run at : http://localhost:8080 on browser
+
