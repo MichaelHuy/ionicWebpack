@@ -34,5 +34,8 @@
   ],
   "cordovaPlatforms": [
     "ios"
-  ]
+  ],
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline --colors --content-base www/"
+  }
 }
